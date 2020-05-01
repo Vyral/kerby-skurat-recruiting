@@ -27,22 +27,36 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: kskurat@kcexperts.com
+  email: join@kcexperts.com
   url:
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "Looking to Build Your Real Estate Career?"
-    CTA_text: "Let's talk about how Kerby & Cristina Real Estate Experts can take your business to new heights."
-    CTA_link_text: "Free Strategy Session"
-    CTA_url: /contact/
+  - CTA_image_path: /img/cta-images/001.png
+    CTA_title: "Join Our Team"
+    CTA_text: "Sell More Homes in Less Time"
+    CTA_link_text: "Apply Now"
+    CTA_url: /join-our-team/
 
-# second_sidebar_CTA:
-#   - CTA_image_path2: /img/cta-images/002.jpg
-#     CTA_title2: "Join Our Team"
-#     CTA_text2: "Sell more homes by joining forces with the our dynamic real estate company."
-#     CTA_link_text2: "Career Info"
-#     CTA_url2: /
+second_sidebar_CTA:
+  - CTA_image_path2: /img/cta-images/002.png
+    CTA_title2: "Free Newsletter"
+    CTA_text2: "Tips and Advice to succeed"
+    CTA_link_text2: "Sign Up Now"
+    CTA_url2: /subscribe/
+
+third_sidebar_CTA:
+  - CTA_image_path3: /img/cta-images/003.png
+    CTA_title3: "Free Strategy Call"
+    CTA_text3: "Personalized Advice for you"
+    CTA_link_text3: "Book a Call"
+    CTA_url3: /strategy-call/
+
+fourth_sidebar_CTA:
+  - CTA_image_path4: /img/cta-images/004.png
+    CTA_title4: "Real Estate Workshop?"
+    CTA_text4: "Write Your Business Plan"
+    CTA_link_text4: "Reserve Your Seat"
+    CTA_url4: http://kerbyandcristina.eventbrite.com/
 
 lender:
   show_section: false

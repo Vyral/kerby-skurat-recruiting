@@ -1,5 +1,5 @@
 ---
-layout: recruiting
+layout: jot-page
 title: Plymouth Careers
 permalink: /join-our-team/
 ---

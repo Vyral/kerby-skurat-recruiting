@@ -4,6 +4,7 @@
 {% include head.html %}
 
 	<body>
+		{% include fb.html %}
 		{% if site.data.settings.audit_header == true %}
 			{% include audit.html %}
 		{% endif %}
@@ -23,24 +24,22 @@
 			</div>
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-lg-offset-1">
-					{content}
-			</div>
+					{{ content }}
+				</div>
 
 			<!-- Sidebar Content // Hidden on mobile -->
 
 				<div class="col-md-5 col-lg-3 hidden-sm hidden-xs sidebar">
 					{% include socials.html %}
 					{% include search-box.html %}
-					{% include emma-form.html %}
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/wT_QRRaeMc4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 					{% include cta-sidebar.html %}
-					{% include lender.html %}
 					{% include blog-archive-category.html %}
 					{% include reviews.html %}
 				</div>
 			</div>
 
 			</div>
-			{% include pagination.html %}
 			{% include about.html %}
 			{% include testimonials.html %}
 			{% include top-button.html %}
