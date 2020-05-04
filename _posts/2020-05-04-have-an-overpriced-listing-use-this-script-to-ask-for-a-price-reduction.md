@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Here’s Why Virtual Listing and Buyers Consultations Work!
+title: Have an Overpriced Listing? Use This Script to Ask For a Price Reduction!
 date: 2020-05-04 20:26:00
 tags:
-excerpt: Here’s Why Virtual Listing and Buyers Consultations Work!
+excerpt: Have an Overpriced Listing? Use This Script to Ask For a Price Reduction!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
