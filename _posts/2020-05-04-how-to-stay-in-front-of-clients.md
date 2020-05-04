@@ -1,9 +1,9 @@
 ---
 layout: post
 title: How To Stay in Front of Clients
-date: 2020-05-04 20:22:12
+date: 2020-05-04 20:22:00
 tags:
-excerpt:
+excerpt: How to Stay in Front of Client During This Pandemic
 enclosure:
 pullquote:
 enclosure_type: video/mp4
