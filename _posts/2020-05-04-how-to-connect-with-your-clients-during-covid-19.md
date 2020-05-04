@@ -1,9 +1,9 @@
 ---
 layout: post
-title: How To Stay in Front of Clients
+title: How to Connect with Your Clients During Covid-19
 date: 2020-05-04 20:22:00
 tags:
-excerpt: How to Stay in Front of Clients During This Pandemic
+excerpt: How to Connect with Your Clients During Covid-19
 enclosure:
 pullquote:
 enclosure_type: video/mp4
