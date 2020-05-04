@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 2 Things To Help Connect With Clients
-date: 2020-05-04 20:34:21
+title: Have an Overpriced Listing? Use This Script to Ask For a Price Reduction!
+date: 2020-05-04 20:34:00
 tags:
-excerpt: 2 Ways We Are Continuing to Serve and Connect with Our Clients Amidst COVID-19
+excerpt: Have an Overpriced Listing? Use This Script to Ask For a Price Reduction!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
