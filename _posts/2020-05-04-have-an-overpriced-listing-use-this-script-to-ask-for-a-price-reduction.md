@@ -25,7 +25,7 @@ How do you get a seller to agree to a price reduction?
 * 6% to 12% off: Drive-bys only and a low number of showings
 * \+12% off: Drive-bys only&nbsp;
 
-So when you sit down with one of your sellers, show them this chart and explain to them that due to the market activity you’ve been observing, buyers’ response to their home, and conversations you’ve had with other agents, their home is inside one of the mispriced rings. Then, advise them to allow you to make a market adjustment and reduce their home’s price.&nbsp;
+So when you sit down with one of your sellers, show them this chart and explain to them that due to the market activity you’ve been observing, buyers’ response to their home, and conversations you’ve had with other agents, you believe their home is inside one of the mispriced rings. Then, advise them to allow you to make a market adjustment and reduce their home’s price.&nbsp;
 
 {% include pullquote.html %}
 
