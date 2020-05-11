@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/staying-in-touch-youtube.jpg
+youtube_alternate_image: /uploads/2020-05-11.jpg
 youtube_code: pLQYbpxOYwA
 ---
 
