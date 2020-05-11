@@ -11,7 +11,7 @@ pullquote: 'The target price, or bullseye, is where you want to be.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/price-reduction-youtube.jpg
+youtube_alternate_image: /uploads/price-reduction-youtube-1.jpg
 youtube_code: 1sVOPF8js5I
 ---
 
