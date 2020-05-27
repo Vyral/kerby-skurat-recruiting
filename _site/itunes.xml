@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Kerby & Cristina Real Estate Experts - your professional Plymouth Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Kerby & Cristina Skurat</managingEditor>
-    <lastBuildDate>2020-05-19 14:54:14 -0500</lastBuildDate>
+    <lastBuildDate>2020-05-27 14:44:12 -0500</lastBuildDate>
     <media:copyright>Kerby & Cristina Skurat</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Plymouth, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,17 +25,66 @@
       <itunes:category text="Education"/>
     
       <item>
-        <title>Here’s Why Virtual Listing and Buyers Consultations Work!</title>
-        <link>http://localhost:4000/heres-why-virtual-listing-and-buyers-consultations-work.html</link>
+        <title>ShortSalesWebinar-M&Z</title>
+        <link>http://localhost:4000/shortsaleswebinar-mz.html</link>
+        
+          <category>Lead Conversion</category>
+        
+          <category>Transaction Management</category>
         
         <author>Kerby & Cristina Skurat</author>
-        <pubDate>2020-05-04 15:59:38 -0500</pubDate>
+        <pubDate>2020-05-26 10:41:28 -0500</pubDate>
         <guid></guid>
         <description>
 
+Below, I’ve included the links to the documents mentioned in this video:
+
+
+  EFFECTIVE CLIENT REPRESENTATION IN SHORT SALE TRANSACTIONS
+  AGENT GUIDE TO SHORT SALES
+
+
+If you have any questions, don’t hesitate to reach out to us. We are happy to assist you!
+
+
   
 
- “”
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today, we provide an in-depth look into short sales.</itunes:subtitle>
+        <itunes:author>Kerby & Cristina Skurat</itunes:author>
+        <itunes:summary>Today, we provide an in-depth look into short sales.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Plymouth, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Here’s Why Virtual Listing and Buyers Consultations Work!</title>
+        <link>http://localhost:4000/heres-why-virtual-listing-and-buyers-consultations-work.html</link>
+        
+          <category>Buyer Prospects</category>
+        
+        <author>Kerby & Cristina Skurat</author>
+        <pubDate>2020-05-04 15:59:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Many agents have been asking us what the most crucial things are we can do for our clients during this challenging time so they can still make a move. The good news is, we’ve been doing this for years. 
+
+A great thing you can do for buyers is to make sure they’re comfortable with the virtual process. We’re doing virtual consultations, helping them understand the process, getting a home search set up, then doing either a virtual showing or walk-through. If they’re extremely interested in the home, then we’ll conduct a safe, in-person showing of the house with all health precautions in place.
+
+“Make sure they’re comfortable with the virtual process.”
+
+For sellers, we’re doing virtual consultations and walk-throughs of their property. We’re reviewing our marketing strategy to ensure their home stands out from the competition, and that we find the right buyers. We’re making sure this is an easy and safe experience for them.
+
+If you want to learn more about how we help our clients during this pandemic, or you have any questions, reach out to me via phone or email at cristina@kerbyandcristina.com. There are many more ways we’re helping our clients right now, and we would love to discuss them with you.
+
+
+  
+
+ 
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
