@@ -9,7 +9,7 @@ enclosure:
 pullquote: Make sure they’re comfortable with the virtual process.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/2-things-youtube.jpg
 youtube_code: N4d_71aHG4c
 ---
