@@ -1,15 +1,15 @@
 ---
 layout: post
 title: How Showing Agents and Open House Partners Can Elevate Your Business
-date: 2020-05-28 15:15:24
+date: 2020-05-28 15:15:00
 tags:
 excerpt: 'With our systems, buyer’s agents can do more business and make more money.'
 enclosure:
 pullquote: Some of our agents will sell five homes on vacation.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/showing-agents-youtube.jpg
 youtube_code: EKnEY7heF_E
 ---
 
