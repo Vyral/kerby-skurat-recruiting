@@ -14,7 +14,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/core-values.jpg
+youtube_alternate_image: /uploads/core-values-1.jpg
 youtube_code: 4OyFth6pE2w
 ---
 
