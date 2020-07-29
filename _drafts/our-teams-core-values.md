@@ -9,14 +9,13 @@ excerpt: >-
   Our Core Values are the “secret sauce” and really the “benefits” because if
   you own them, you’re going to be serving clients, loving your work, and making
   a good income doing it… that is what we want and that should be what you want.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Kerby+Skurat/How+Should+You+Spend+Your+Marketing+Budget_.mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
-youtube_code: ZAWwyFG4E_E
+youtube_alternate_image: /uploads/core-values.jpg
+youtube_code: 4OyFth6pE2w
 ---
 
 {% include youtube.html %}
