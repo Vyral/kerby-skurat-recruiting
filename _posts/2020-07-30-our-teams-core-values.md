@@ -9,7 +9,7 @@ excerpt: >-
   Our Core Values are the “secret sauce” and really the “benefits” because if
   you own them, you’re going to be serving clients, loving your work, and making
   a good income doing it… that is what we want and that should be what you want.
-enclosure:
+enclosure: 'https://www.youtube.com/watch?v=4OyFth6pE2w'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
