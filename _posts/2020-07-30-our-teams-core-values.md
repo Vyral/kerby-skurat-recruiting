@@ -13,8 +13,8 @@ enclosure: 'https://www.youtube.com/watch?v=4OyFth6pE2w'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/core-values-1.jpg
+use_youtube_image: true
+youtube_alternate_image:
 youtube_code: 4OyFth6pE2w
 ---
 
